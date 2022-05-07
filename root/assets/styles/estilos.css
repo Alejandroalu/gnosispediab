@@ -1,0 +1,74 @@
+/* Clases generales */
+
+/*ACABA ESTILOS DE BODY*/
+body{
+    background-color: grey;
+}
+
+/*ACABA ESTILOS DE BODY*/
+
+/*INICIA ESTILOS DE ARTICLE*/
+article{
+    background-color: goldenrod;
+    padding: 1.5rem; 
+    color: black;
+}
+/*ACABA ESTILOS DE ARTICLE*/
+
+/*INICIA ESTILOS DE ID: #TITULO_DEL_BLOG*/
+#titulo_del_blog{
+    text-align: center;
+    font-size: 3rem;
+}
+/*ACABA ESTILOS DE ID: #TITULO_DEL_BLOG*/
+
+
+
+/*Terminan Clases generales*/
+
+
+/* Barra de navegaciÃ³n*/
+
+
+/*INICIA ESTILOS DE CLASE: .RESULTADO*/
+.resaltado {
+    color: yellow;
+}
+/*ACABA ESTILOS DE CLASE: .RESULTADO*/
+
+/*INICIA ESTILOS DE LISTA ORDENADA DENTRO DE NAV*/
+nav>ul>li{
+    list-style: none;
+}
+/*ACABA ESTILOS DE LISTA ORDENADA DENTRO DE NAV*/
+
+/*Inicia eliminar subrayado*/
+nav>ul>li>a{
+    text-decoration: none;
+}
+/*Termina eliminar subrayado*/
+
+/*INICIA ESTILOS DE ID: #FOOTER_BLOG*/
+#footer_blog{
+    margin: 2rem
+}
+/*ACABA ESTILOS DE ID: #FOOTER_BLOG*/
+
+/*Inicia estilos de ilustraciÃ³n*/
+.ilustracion{
+    border: 4px;
+    color: white;
+}
+/*Acaba estilos de ilustraciÃ³n*/
+
+
+/*INICIA ESTILOS DE CLASE: FIGCAPTION_ILUSTRACION*/
+.figcaption_ilustracion{
+    margin-top: 1rem;
+
+    margin-left: 1rem;
+
+    font-style: italic;
+}
+/*ACABA ESTILOS DE ID: #FIGCAPTION_ILUSTRACION*/
+
